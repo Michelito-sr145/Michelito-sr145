@@ -32,7 +32,7 @@
 ### 📫 Cómo contactarme
 
 - 🌐 [Portafolio Web](https://michelito-sr145.github.io/Mi-Portafolio)
-- 💼 [LinkedIn](https://www.linkedin.com/in/michel-salazar-dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michelsr145/)
 - 📧 michelroncal2002@gmail.com
 
 ---
